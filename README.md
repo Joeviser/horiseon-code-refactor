@@ -1,5 +1,4 @@
 
-# horiseon-code-refactor
 
 # Horiseon Marketing Agency Website
 Refactor Horiseon agency marketing website 
@@ -11,8 +10,8 @@ Project to improve the accesibility standars to Horiseon marketing agency websit
 
 
 ## Installation
-
-"N/A"
+Website:
+https://joeviser.github.io/horiseon-code-refactor/
 
 ## Usage
 
